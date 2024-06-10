@@ -1,5 +1,4 @@
-# Virtual Interview
-### Project Proposal: Virtual Interviewer with Animated Avatar
+# Virtual Interviewer with Animated Avatar
 
 ## Overview
 The purpose of this project is to create a virtual interviewer with an animated avatar that can assist job seekers in preparing for interviews by asking tough and relevant questions for a specific job title. The virtual interviewer can also be used by hiring managers to get ideas for good interview questions.
